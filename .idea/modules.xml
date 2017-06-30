@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/THJVideoPlayer.iml" filepath="$PROJECT_DIR$/THJVideoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countdowntimer/countdowntimer.iml" filepath="$PROJECT_DIR$/countdowntimer/countdowntimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fullscreen/fullscreen.iml" filepath="$PROJECT_DIR$/fullscreen/fullscreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getscreen/getscreen.iml" filepath="$PROJECT_DIR$/getscreen/getscreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testlooper/testlooper.iml" filepath="$PROJECT_DIR$/testlooper/testlooper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmediaplayer/testmediaplayer.iml" filepath="$PROJECT_DIR$/testmediaplayer/testmediaplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testsleep/testsleep.iml" filepath="$PROJECT_DIR$/testsleep/testsleep.iml" />
+    </modules>
+  </component>
+</project>
